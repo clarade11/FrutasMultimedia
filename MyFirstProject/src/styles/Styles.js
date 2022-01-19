@@ -56,21 +56,26 @@ const styles = StyleSheet.create(
         padding: 10,
         alignItems:'center',
       },
+      desple:{
+        marginTop:-20,
+        paddingBottom:10,
+        width:15,
+        height:15
+      },
       fruta:{
         color:'#3ac27a',
         fontWeight:'bold',
         textShadowColor:'black',
-        textShadowRadius:20,
+        textShadowRadius:15,
         fontSize:30,
       },
       precio:{
       color:'#f52a3e',
       fontWeight:'bold',
       textShadowColor:'black',
-      textShadowRadius:20,
+      textShadowRadius:15,
       fontSize:30
-    }
-
+    },
 
     }
   )
